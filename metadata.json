@@ -1,0 +1,8 @@
+{
+  "name": "Arci.ai",
+  "description": "A professional AI-powered website builder inspired by Cursor, using OpenRouter for high-quality code generation. Features a custom Arci brand identity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
